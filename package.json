@@ -1,0 +1,19 @@
+{
+	"name": "grids",
+	"version": "1.0.0",
+	"description": "project with using grid system",
+	"main": "index.js",
+	"scripts": {
+		"gulp": "gulp",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Ruslan Ogarkov",
+	"license": "ISC",
+	"devDependencies": {
+		"browser-sync": "^2.26.7",
+		"gulp-sass": "^4.0.2"
+	},
+	"dependencies": {
+		"gulp": "^4.0.2"
+	}
+}
